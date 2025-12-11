@@ -100,5 +100,7 @@ header, section {
 }
 
 
-
+#bottoneSegreto {
+    display: none;
+}
 
