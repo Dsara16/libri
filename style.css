@@ -101,17 +101,15 @@ header, section {
 
 
 #bottoneSegreto {
-    background-color: black;
-    border-color: black;
-    color: black;
+   opacity: 0;
     width:200px;
     cursor: pointer;
 }
 
-#resultTex{
+/*#resultTex{
     display:none;
     margin-top: 20px;
     padding: 10px;
-}
+}*/
 
 
