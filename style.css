@@ -101,7 +101,7 @@ header, section {
 
 
 #bottoneSegreto {
-    background-color: trasparent;
+    visibility: hidden;
     border: none;
     width:200px;
     cursor: pointer;
