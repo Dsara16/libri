@@ -107,7 +107,7 @@ header, section {
     cursor: pointer;
 }
 
-#result{
+#resultTex{
     display:none;
     margin-top: 20px;
     padding: 10px;
