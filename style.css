@@ -91,7 +91,7 @@ header, section {
 .contenitore-bordi{
     width: 80%;
     margin: 50px auto;
-    border: 2px solid #333;
+    border: 2px;
     padding: 20px;
 }
 
