@@ -5,6 +5,10 @@ body {
     background: #000;
 }
 
+body{
+    font-family:'Brush Script', Brush Script;
+}
+
 /* Menu lat */
 #menu {
     position: fixed;
