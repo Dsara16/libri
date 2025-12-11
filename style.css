@@ -101,6 +101,16 @@ header, section {
 
 
 #bottoneSegreto {
-    display: none;
+    background-color: trasparent;
+    border: none;
+    width:200px;
+    cursor: pointer;
 }
+
+#result{
+    display:none;
+    margin-top: 20px;
+    padding: 10px;
+}
+
 
