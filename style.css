@@ -9,7 +9,6 @@ body{
     font-family:'Brush Script', Brush Script;
 }
 
-
 /* Menu lat */
 #menu {
     position: fixed;
@@ -88,3 +87,18 @@ header, section {
     border: 1px solid #d4a043;
     border-radius: 8px;
 }
+
+.contenitore-bordi{
+    width: 80%;
+    margin: 50px auto;
+    border: 2px solid #333;
+    padding: 20px;
+}
+
+.testo-centrarto{
+    text-align: center;
+}
+
+
+
+
