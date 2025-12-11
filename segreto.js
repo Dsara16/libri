@@ -1,6 +1,6 @@
-const button = document.getElementById('bottoneSegreto');
-const result = document.getElementById('resultTex');
+const button = document.getElementById("bottoneSegreto");
+const result = document.getElementById("resultTex");
 
-bottoneSegreto.addEventListener('click', function() {
+bottoneSegreto.addEventListener("click", () => {
   result.style.display = 'block';
 });
