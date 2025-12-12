@@ -25,6 +25,22 @@
 
   <button id="bottoneSegreto"></button>  <!-- sì, stai perdendo tempo a cercar di far accadere qualcosa, perchè non accadrà assolutamente niente :) !-->
 
+<p id="testoDaMostrare" style="display: none;">
+  oh no, interagendo con questo bottone sei stato pescato per gli hunger games D: ...
+    scappa finché sei in tempo, o preparati alla sopravvivenza 
+</p>
+
+<script>
+  document.getElementById('bottoneSegreto').addEventListener('click', function() {
+    var testo = document.getElementById('testoDaMostrare');
+    if (testo.style.display === 'none') {
+      testo.style.display = 'block';
+    } else {
+      testo.style.display = 'none';
+    }
+  });
+</script>
+    
     
 </body>
 </html>
